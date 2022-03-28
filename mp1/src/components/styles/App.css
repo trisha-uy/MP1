@@ -1,0 +1,16 @@
+#border{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-style: solid;
+    border-radius: 5px;
+}
+
+table.containContent{
+    margin: auto;
+    margin-top: 2%;
+}
+
+.containContent tr, .containContent td{
+    padding: 1%;
+    vertical-align: top;
+}

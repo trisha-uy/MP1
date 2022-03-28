@@ -1,0 +1,31 @@
+#font-montserrat {
+    font-family: 'Montserrat';
+}
+
+.myImage{
+    min-width: 100%;
+    width: 100%;
+}
+
+.imageFrame{
+    padding: 0 !important;
+}
+
+.iconImage{
+    padding-right: 5px;
+    filter: invert(67%) sepia(32%) saturate(1530%) hue-rotate(311deg) brightness(106%) contrast(100%);
+}
+
+.title{
+    text-align: left;
+    padding: 2%;
+    color: white;
+}
+
+.name{
+    color: #ffffff;
+}
+
+.background{
+    background: #000000c9;
+}

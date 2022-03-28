@@ -1,0 +1,10 @@
+table.semContent{
+    border-style: solid;
+    border-collapse: collapse;
+    height: 20vh;
+}
+
+.semContent tr, .semContent th, .semContent td{
+    border: 1px solid;
+    padding: 10px;
+}

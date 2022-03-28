@@ -1,0 +1,10 @@
+table.OJTContent{
+    width: 100%;
+    border-style: solid;
+    border-collapse: collapse;
+}
+
+.OJTContent tr, .OJTContent td, .OJTContent th{
+    border: 1px solid;
+    padding: 10px;
+}

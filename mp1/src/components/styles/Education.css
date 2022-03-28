@@ -1,0 +1,10 @@
+table.educContent{
+    border-style: solid;
+    border-collapse: collapse;
+    height: 20vh;
+}
+
+.educContent tr, .educContent th, .educContent td{
+    border: 1px solid;
+    padding: 10px;
+}
